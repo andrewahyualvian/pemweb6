@@ -2,16 +2,20 @@
 Percabangan
 Output
 if:
-![image](https://github.com/Ranggawan09/Pertemuan_6/assets/145315699/8c83bec7-b96e-4798-bc0e-9981fcfa49ce)
+![image](https://github.com/andrewahyualvian/pemweb6/assets/145315786/f6d28787-2b2c-4e96-9a7b-ef478dd72f7d)
+
 
 if else: 
-![image](https://github.com/Ranggawan09/Pertemuan_6/assets/145315699/f3ed4b2c-8cb9-49eb-a557-cd33d69fb13c)
+![image](https://github.com/andrewahyualvian/pemweb6/assets/145315786/da62d291-9ca8-4ad3-9a37-6a4393469194)
+
 
 if elseif else: 
-![image](https://github.com/Ranggawan09/Pertemuan_6/assets/145315699/13c7a6ab-6fdd-42b1-8d8c-9030b6ea7d2e)
+![image](https://github.com/andrewahyualvian/pemweb6/assets/145315786/f8f3f96d-55ee-4040-833e-250b84a76fae)
+
 
 switch case: 
-![image](https://github.com/Ranggawan09/Pertemuan_6/assets/145315699/b0a1e1e4-ecba-4adb-ab38-a1912d543fed)
+![image](https://github.com/andrewahyualvian/pemweb6/assets/145315786/35651443-20ae-4f72-9ee3-c2afffe50e3d)
+
 
 
 
